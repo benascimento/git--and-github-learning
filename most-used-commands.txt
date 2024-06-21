@@ -1,0 +1,9 @@
+clone - git clone <repository>
+status - git status
+branch
+  show all - git branch
+  switch to another branch - git switch or git checkout
+  create - git branch <branch name>
+
+merge - git merge <branch name>
+add - git add <files>
